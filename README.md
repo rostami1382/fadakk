@@ -1,7 +1,14 @@
 # FADAK UNIVERSTIY
 
 ## FATEMEH ROSTAMI
+this is ** Bold** .
 
-### Computer Science
+this is *italic* .
 
-![National_University_of_Skills](https://github.com/user-attachments/assets/0a4c9180-96ed-47f3-9c31-aae63457a1e3)
+this is ***bold & italic *** .
+
+```python
+a=0
+print(a)
+```
+![skill](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/National_University_of_Skills.png/640px-National_University_of_Skills.png)
